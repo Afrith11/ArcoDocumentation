@@ -20,7 +20,7 @@
       1.	Education: Specific educational qualifications such as degree, diploma or certification relevant to the job role is very essential.
       2.	Experience: A certain number of years of relevant work experience, which could be in a similar role or a related field.
       3.	Skills: Proficiency in the required skills, tools, software or technologies mentioned in the job description.
-      4.	 Certifications: Possessions of specific industry certifications and licenses that are relevant to the job.
+      4.	Certifications: Possessions of specific industry certifications and licenses that are relevant to the job.
       5.	Language Proficiency: Depending on the role and company, fluency in a particular language (e.g., English) may be required.
       6.	Age: Certain roles may have age requirements, particularly in industries like aviation or law enforcement.
       7.	Location: Some jobs are location-specific due to on-site work requirements, while others may offer remote work options.
@@ -28,8 +28,8 @@
       9.	Background Checks: Candidates may need to undergo background checks, particularly for positions that involve sensitive information or security clearance.
      10.	Physical Requirements: Some roles, like those in manual labor or healthcare, may have physical demands that candidates must meet.
      11.	Criminal Record: Some positions may require a clean criminal record due to the nature of the work.
-     12.	 Availability: Availability to work certain hours, shifts or travel as required by the job. 
-     13.	 Interpersonal Skills: Roles that involves teamwork or client interaction might require strong interpersonal and communication skills.
+     12.	Availability: Availability to work certain hours, shifts or travel as required by the job. 
+     13.	Interpersonal Skills: Roles that involves teamwork or client interaction might require strong interpersonal and communication skills.
      14.	Specific Qualification: Certain roles, such as medical doctors or legal professionals, have specific licensing and educational requirements.
 ## What is meant by Available Candidate?
       In the Recruitment process, an “available candidates” refers to an individual who is actively in the job market and is actively looking for employment opportunities. These candidates are interested in finding a new job, whether it’s due to unemployment, dissatisfaction with their current job, career advancement, or other reasons. These candidates have submitted their resume or applications and are interested in being considered for positions within a company. 
