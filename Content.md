@@ -17,7 +17,7 @@
 ## How does the Candidates need to apply for the jobs?
       The Candidates must search for job openings on various platforms like job websites, company websites, social media and networking events. While applying for the jobs, the candidate should read the job description, responsibilities and qualifications carefully to determine if you meet the criteria. Update your resume to highlight relevant skills and experience. Write a cover letter in the way of expressing your interests and suitability for the role. 
 ## What are the eligibility criteria need for the candidate to apply for job?
-      1.	Education: Specific educational qualifications such as degree, diploma or certification relevant to the job role is very essential.
+      1. Education: Specific educational qualifications such as degree, diploma or certification relevant to the job role is very essential.
       2.	Experience: A certain number of years of relevant work experience, which could be in a similar role or a related field.
       3.	Skills: Proficiency in the required skills, tools, software or technologies mentioned in the job description.
       4.	Certifications: Possessions of specific industry certifications and licenses that are relevant to the job.
