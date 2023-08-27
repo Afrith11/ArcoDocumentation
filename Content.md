@@ -14,4 +14,28 @@
       The Recruiting agencies are working on the basis of agreement and commissions with the companies. Also the recruiting agents are get the contingency fee from the selected candidates on the basis of candidate’s job positions by 12% to 20% of the candidate’s first year basic salary. So, This is the place to share our Bank account details for the fund transaction purpose from the selected candidates and from the companies.
 ## Who are all the Candidates?
       Candidate is a job seeker who has applied for the job opening, either by sending resume or by completing the application. An applicant is the candidate whether he doesn’t attend the interviews and not selected for the jobs also he is the candidate. The word “Candidate” represents the applicant, who are all applied for the job openings and they won’t need to grab the jobs for being the candidate.
+## How does the Candidates need to apply for the jobs?
+      The Candidates must search for job openings on various platforms like job websites, company websites, social media and networking events. While applying for the jobs, the candidate should read the job description, responsibilities and qualifications carefully to determine if you meet the criteria. Update your resume to highlight relevant skills and experience. Write a cover letter in the way of expressing your interests and suitability for the role. 
+## What are the eligibility criteria need for the candidate to apply for job?
+      1.	Education: Specific educational qualifications such as degree, diploma or certification relevant to the job role is very essential.
+      2.	Experience: A certain number of years of relevant work experience, which could be in a similar role or a related field.
+      3.	Skills: Proficiency in the required skills, tools, software or technologies mentioned in the job description.
+      4.	 Certifications: Possessions of specific industry certifications and licenses that are relevant to the job.
+      5.	Language Proficiency: Depending on the role and company, fluency in a particular language (e.g., English) may be required.
+      6.	Age: Certain roles may have age requirements, particularly in industries like aviation or law enforcement.
+      7.	Location: Some jobs are location-specific due to on-site work requirements, while others may offer remote work options.
+      8.	Citizenship/Work Authorization: Depending on the country, candidates may need to be citizens or have the legal right to work there.
+      9.	Background Checks: Candidates may need to undergo background checks, particularly for positions that involve sensitive information or security clearance.
+     10.	Physical Requirements: Some roles, like those in manual labor or healthcare, may have physical demands that candidates must meet.
+     11.	Criminal Record: Some positions may require a clean criminal record due to the nature of the work.
+     12.	 Availability: Availability to work certain hours, shifts or travel as required by the job. 
+     13.	 Interpersonal Skills: Roles that involves teamwork or client interaction might require strong interpersonal and communication skills.
+     14.	Specific Qualification: Certain roles, such as medical doctors or legal professionals, have specific licensing and educational requirements.
+## What is meant by Available Candidate?
+      In the Recruitment process, an “available candidates” refers to an individual who is actively in the job market and is actively looking for employment opportunities. These candidates are interested in finding a new job, whether it’s due to unemployment, dissatisfaction with their current job, career advancement, or other reasons. These candidates have submitted their resume or applications and are interested in being considered for positions within a company. 
+## What is In-Progress Candidate?
+      An “In-Progress Candidate” in the context of a recruitment process refers to an individual who is currently being evaluated and considered for a job position but hasn’t yet reached the final stage of the hiring process, such as receiving an offer or being officially hired. In-Progress often means that the HR department has received the necessary documents and details from you. This can be a common status as a hiring a department reviews your credentials, references and other required documents. Sometimes, this status may be more detailed and indicate your application is “under review” as hiring departments analyze each applicant. This can be a status that your application stays in for several weeks depending on how many documents hiring managers need to review and how many applicants there are.
+##                 
+
+
       
