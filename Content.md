@@ -35,7 +35,9 @@
       In the Recruitment process, an “available candidates” refers to an individual who is actively in the job market and is actively looking for employment opportunities. These candidates are interested in finding a new job, whether it’s due to unemployment, dissatisfaction with their current job, career advancement, or other reasons. These candidates have submitted their resume or applications and are interested in being considered for positions within a company. 
 ## What is In-Progress Candidate?
       An “In-Progress Candidate” in the context of a recruitment process refers to an individual who is currently being evaluated and considered for a job position but hasn’t yet reached the final stage of the hiring process, such as receiving an offer or being officially hired. In-Progress often means that the HR department has received the necessary documents and details from you. This can be a common status as a hiring a department reviews your credentials, references and other required documents. Sometimes, this status may be more detailed and indicate your application is “under review” as hiring departments analyze each applicant. This can be a status that your application stays in for several weeks depending on how many documents hiring managers need to review and how many applicants there are.
-##                 
+##             
+
+
 
 
       
