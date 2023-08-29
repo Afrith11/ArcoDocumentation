@@ -6,18 +6,25 @@
       
 ## How do the Recruiting Agents work?
       Recruiting Agents sign contracts with the companies and handle the most of the hiring processes. When a company opens a new vacant positions, the recruiting agent contacts the company to discuss about the job description and to understand the compensation and other requirements for the position.  Sometimes, they also help the company to create job description for vacancies. Once the requirements are finalized, the recruiting agent scans their database and the recruiting agent conducts the preliminary interviews to shortlist the candidates after a basic scanning of the candidate’s profile. In this interviews, the recruiting agent tries to identify if a candidate has all the required qualification and skills that the company wants. They discuss about the job description and compensation details during the interview. Then, they pass on the profiles of the candidates who qualify during the interview to the company and helps in scheduling meeting with them. After the screening by the recruiting agent, the company conducts the final interview and select the ideal candidate. Recruiting agents may or may not be a part of the onboarding process once the final candidate is chosen.
+      
 ## Who is an Active Agent?
       An Active agent in the recruitment process refers to a person or entity that takes a proactive role in identifying, sourcing, and engaging potential candidates for a job or position. When a company need to recruit an employee through the agent, first they check the status of an agent who are all in active, whether the inactive agents are there, it may delay the recruitment process. Once they verified active agents, they split their requirements to the many active agents, who were located in different places. Because not a  single agent can recruit the huge employees at the same time. So that, the company split and send the requirements to the active agent. Active agents often utilize various methods such as job boards, networking, direct outreach, and social media to connect with potential candidates and present them to the hiring company or organization.
+      
 ## Who is the Contact Person?
       The Contact Person in the requirement process is typically an individual within the company who serves as the main point of contact for candidates who are applying for a job. This person is responsible for communicating with the candidates, providing the information about job and the hiring process, scheduling interviews, answering questions and facilitating the overall communication between the company and the candidates. The contact person could be someone from the Human Resources department, the hiring manager for the position, or designated representative who is responsible for managing the recruitment process. 
+      
 ## What is meant by Block Agent?
       The Company is usually separated the list of Active agents and the Block agents. While sending the requirements to the agents, the company send only to the active agents for the quick response. Blocked agents are blocked by the company for some other reasons or they are inactive in the requirement process. So, these inactive agents are shortlisted to block agent category.    
+      
 ## Bank Account
       The Recruiting agencies are working on the basis of agreement and commissions with the companies. Also the recruiting agents are get the contingency fee from the selected candidates on the basis of candidate’s job positions by 12% to 20% of the candidate’s first year basic salary. So, This is the place to share our Bank account details for the fund transaction purpose from the selected candidates and from the companies.
+      
 ## Who are all the Candidates?
       Candidate is a job seeker who has applied for the job opening, either by sending resume or by completing the application. An applicant is the candidate whether he doesn’t attend the interviews and not selected for the jobs also he is the candidate. The word “Candidate” represents the applicant, who are all applied for the job openings and they won’t need to grab the jobs for being the candidate.
+      
 ## How does the Candidates need to apply for the jobs?
       The Candidates must search for job openings on various platforms like job websites, company websites, social media and networking events. While applying for the jobs, the candidate should read the job description, responsibilities and qualifications carefully to determine if you meet the criteria. Update your resume to highlight relevant skills and experience. Write a cover letter in the way of expressing your interests and suitability for the role. 
+      
 ## What are the eligibility criteria need for the candidate to apply for job?
       **1. Education:** Specific educational qualifications such as degree, diploma or certification relevant to the job role is very essential.
       **2. Experience:** A certain number of years of relevant work experience, which could be in a similar role or a related field.
@@ -33,11 +40,14 @@
      **12. Availability:** Availability to work certain hours, shifts or travel as required by the job. 
      **13. Interpersonal Skills:** Roles that involves teamwork or client interaction might require strong interpersonal and communication skills.
      **14. Specific Qualification:** Certain roles, such as medical doctors or legal professionals, have specific licensing and educational requirements.
+     
 ## What is meant by Available Candidate?
       In the Recruitment process, an “available candidates” refers to an individual who is actively in the job market and is actively looking for employment opportunities. These candidates are interested in finding a new job, whether it’s due to unemployment, dissatisfaction with their current job, career advancement, or other reasons. These candidates have submitted their resume or applications and are interested in being considered for positions within a company. 
+      
 ## What is In-Progress Candidate?
       An “In-Progress Candidate” in the context of a recruitment process refers to an individual who is currently being evaluated and considered for a job position but hasn’t yet reached the final stage of the hiring process, such as receiving an offer or being officially hired. In-Progress often means that the HR department has received the necessary documents and details from you. This can be a common status as a hiring a department reviews your credentials, references and other required documents. Sometimes, this status may be more detailed and indicate your application is “under review” as hiring departments analyze each applicant. This can be a status that your application stays in for several weeks depending on how many documents hiring managers need to review and how many applicants there are.
-##             
+      
+             
 
 
 
