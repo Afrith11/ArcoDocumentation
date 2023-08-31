@@ -88,11 +88,17 @@ The process of Selecting candidates involves some steps:
 The company may block candidate for some common reasons, they are:
 
 • If a candidate may produce irrelevant or false data/information about his background can be blocked by the company.
+
 • After facing an interview, discussing the job offers, signing for the contract and other formalities, rejecting the job offer at the last moment can lead candidate to block by the company.
+
 • Negative feedback from references or previous employers can result in a candidate being blocked from moving forward.
+
 • Being unprofessional means using inappropriate language on social media, not following work ethics, bad behavior, badmouthing etc.
+
 • Using the different recruiters to apply for the same job puts the employers in chaos and that makes the candidate to be blocked.
+
 • Applying your resume for the same job position too much number of times can make employers blocked your profile.
+
 • If a candidate’s values, attitudes or communication style doesn’t align with the company’s culture, they may be blocked from further consideration.
 
 ## What is meant by Rejected Candidate?
