@@ -116,14 +116,17 @@ Rejecting candidates is the most challenging thing than simply writing and sendi
 **4.** Automate your email writing process to avoid duplicate or repeat emails.
 
 **Rejecting Candidates after the Phone Screen**
+
          If the company has decided that the candidate is not a perfect fit after a phone screen, it’s best to reject them in writing or via phone call within 1-2 days. Be clear about what disqualified them and express appreciation for their time and effort. If the candidate has questions, be sure to answer them politely.
          Providing timely and constructive feedback to candidates to help them understand why they were rejected and improve for future opportunities. This phase helps companies narrow down the pool of applicants before proceeding to in-person interviews or other stages of the hiring process.
 
 **Rejecting Candidates after the In-Person Interview**
+
           The Company already has a special conversation and relationship with the candidate during the interview stage, and they have interacted with the company several times. Rejecting candidates at this stage requires extra consideration.
           It is advisable to employ a templated email to express gratitude to the candidate for their time and to reiterate that they have not been selected. It is recommended to avoid providing ambiguous remarks that fail to clarify the reasons for their non-selection. Rather, it is suggested to concentrate on providing constructive feedback that can assist them in enhancing their candidacy for future positions.
 
 **Rejecting Candidates after an offer**
+
           It is always challenging to reject a candidate after the company offered them a job. But it occasionally needs to be done, after background check failure. The best way to do this is to let the candidate know via phone. Calling the candidate will allow them to ask questions and understand the decision made. When rejecting a candidate after an offer, remember that the company’s reputation is also on the line. Therefore, the company should justify why did not select the candidate and how their profile did not meet the job qualifications to receive closure. Rejecting candidate takes work. 
 
 ## What is a Candidate Profile?
