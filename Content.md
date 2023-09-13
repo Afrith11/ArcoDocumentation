@@ -127,6 +127,7 @@ Rejecting candidates is the most challenging thing than simply writing and sendi
      Providing timely and constructive feedback to candidates to help them understand why they were rejected and improve for future opportunities. This phase helps companies narrow down the pool of applicants before proceeding to in-person interviews or other stages of the hiring process.
 
 **Rejecting Candidates after the In-Person Interview**
+
      The Company already has a special conversation and relationship with the candidate during the interview stage, and they have interacted with the company several times. Rejecting candidates at this stage requires extra consideration.
      It is advisable to employ a templated email to express gratitude to the candidate for their time and to reiterate that they have not been selected. It is recommended to avoid providing ambiguous remarks that fail to clarify the reasons for their non-selection. Rather, it is suggested to concentrate on providing constructive feedback that can assist them in enhancing their candidacy for future positions.
 
