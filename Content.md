@@ -136,7 +136,46 @@ Rejecting candidates is the most challenging thing than simply writing and sendi
           It is always challenging to reject a candidate after the company offered them a job. But it occasionally needs to be done, after background check failure. The best way to do this is to let the candidate know via phone. Calling the candidate will allow them to ask questions and understand the decision made. When rejecting a candidate after an offer, remember that the company’s reputation is also on the line. Therefore, the company should justify why did not select the candidate and how their profile did not meet the job qualifications to receive closure. Rejecting candidate takes work. 
 
 ## What is a Candidate Profile?
-      A Candidate profile is a detailed description of an open position at a company and the ideal candidate who will fill that position. It can also describe the platforms and recruiting methods the company will use to find candidates. When utilized internally, a candidate profile can facilitate the hiring team's comprehension of the position they are recruiting for and ensure equitable evaluation of candidates. A candidate profile, as defined by a recruiting agency, is a written document that outlines the qualifications and attributes of an individual who has submitted an application for employment through said agency.
+      A Candidate profile is a detailed description of an open position at a company and the ideal candidate who will fill that position. It can also describe the platforms and recruiting methods the company will use to find candidates. When utilized internally, a candidate profile can facilitate the hiring team's comprehension of the position they are recruiting for and ensure equitable evaluation of candidates. A candidate profile, as defined by a recruiting agency, is a written document that outlines the qualifications and attributes of an individual who has submitted an application for employment through said agency. The agency dispatches this document to its clients for their utilization in the recruitment decision-making process. Conversely, in an internal recruitment process, a company formulates a candidate profile to assist in defining the new position prior to advertising the job vacancy.
+
+## What is meant by Recruitment request?
+      A Recruitment request is refers to a formal or official process within an organization where a department or manager requests the hiring of the new employees to fill specific job vacancies or positions. This request typically outlines the need for additional staff, provides job descriptions, and may include details about the qualifications and skills required for the roles. It is the initial step in the requirement and hiring process, initiating the search for suitable candidates to join the organization. 
+
+## What is Recruitment request summary?
+      A Recruitment request summary is a concise document or description that outlines the key details of a job opening or staffing need within an organization. It typically includes information such as the job title, department, location, required qualifications, responsibilities and any specific instructions or deadlines for the recruitment process. This summary is often used to communicate the hiring need to HR professionals, recruiters or hiring managers, serving as a reference point for initiating the recruitment process. 
+
+**Detailed explanation of Recruitment request summary**
+
+      A recruitment request summary is a important document in the hiring process that provides detailed information about a job opening within an organization. It serves as a foundational document that guides the recruitment process. Here is a detailed explanation of what a recruitment request summary typically includes: 
+
+**1. Job Title:** This is the specific title or designation for the position that needs to be filled. It should accurately reflect the role responsibilities associated with the job.
+
+**2. Department and Location:** This information outlines the specific department within the organization where the position is situated, as well as any relevant physical location or office where the employee will be stationed.
+
+**3. Reporting Structure:** This statement denotes the individual to whom the employee will be accountable and potentially the individuals whom they will oversee or collaborate with closely.
+
+**4. Job Description:** Offers a detailed overview of the responsibilities, tasks and duties associated with the position. This section may include information on the primary objectives, key tasks and any special projects the employee will be involved in.
+
+**5. Qualification and Requirements:** Outlines the skills, experience, education and certifications necessary for a candidate to be considered for the position. This includes any specific technical skills, software proficiency, or industry knowledge required.
+
+**6. Experience Level:** Specifies the level of experience expected from potential candidates, such as entry level, mid-level, or senior.
+
+**7. Desired Attributes:** May include soft skills or personal qualities that are desirable for the role, such as communication skills, leadership abilities or problem-solving capabilities.
+
+**8. Compensation and Benefits:** Provides information about the salary range or compensation package associated with the position. It may also mention additional benefits like health insurance, retirement plans, or other perks.
+
+**9. Application Instructions:** Provides specific details on how candidates should apply for the position. This may include submitting a resume, cover letter, portfolio or any other required documents, as well as contact information for submitting applications.
+
+**10.	Diversity and Inclusion Considerations:** In some cases, organizations may include information on their commitment to diversity and inclusion, and how it applies to the hiring process for this position.
+
+**11.	Legal and Compliance Considerations:** This section may highlight any legal requirements or industry-specific regulations that pertain to the hiring process for this role. 
+
+## Define Recruitment Order
+      A Recruitment Order commonly referred to as a Hiring Requisition or Job Requisition is a formal document or request that is initiated by an organization's management or department heads to authorize the recruitment of new employees. This document provides a comprehensive overview of the position(s) to be filled, including job title, department, responsibilities, qualifications, and often includes approval from relevant stakeholders.
+
+      The recruitment order serves as a formal request to the HR department or recruitment team to start the process of sourcing, interviewing, and ultimately selecting suitable candidates for the specified job opening(s). It plays a pivotal role in ensuring that the hiring process aligns with the organization’s strategic objectives and staffing needs.
+
+      
 
 
 
