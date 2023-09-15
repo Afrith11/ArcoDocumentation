@@ -175,6 +175,10 @@ Rejecting candidates is the most challenging thing than simply writing and sendi
 
       The recruitment order serves as a formal request to the HR department or recruitment team to start the process of sourcing, interviewing, and ultimately selecting suitable candidates for the specified job opening(s). It plays a pivotal role in ensuring that the hiring process aligns with the organization’s strategic objectives and staffing needs.
 
+## Active Recruitment Order
+      An Active Recruitment Order represents the current status of the recruitment request which turns into recruitment order, when the company accepted the request. It states the progress of the order in which stage is going on. The Recruitment requested company may often verify their order whether it is active or inactive.
+      
+
       
 
 
